@@ -15,10 +15,13 @@ Software Engineer at [meetsmore](https://github.com/meetsmore)
 
 ### Stats
 
-<p align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuyuyuyunn&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=mayuyuyuyunn&count_private=true&show_icons=true&theme=onedark" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayuyuyuyunn&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayuyuyuyunn&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayuyuyuyunn&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayuyuyuyunn&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayuyuyuyunn&theme=onedark&utcOffset=9)
 
 <p align="left">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=mayuyuyuyunn&theme=onedark" />
